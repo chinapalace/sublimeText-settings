@@ -1,0 +1,1933 @@
+{
+	"folder_history":
+	[
+		"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio",
+		"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap",
+		"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess",
+		"/Users/clayfudurich",
+		"/Users/clayfudurich/Desktop/Bootcamp/ucsd17/hello.html",
+		"/Users/clayfudurich/Downloads/Broken_and_Working_Code"
+	],
+	"last_version": 3143,
+	"last_window_id": 144,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 687.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week3/style.css",
+					"settings":
+					{
+						"buffer_size": 385,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week3/rockPaperScissors.html",
+					"settings":
+					{
+						"buffer_size": 2577,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week3/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 385,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week3/rockPaperScissors.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2577,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 68 1280 709 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 140,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/css/animate.css",
+					"settings":
+					{
+						"buffer_size": 23848,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/css/animate.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23848,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 68 1280 709 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 142,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/index.html",
+					"settings":
+					{
+						"buffer_size": 4936,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 2994,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "$(document).bind('keydown',function(e){\n        $('#mood').focus();\n    \n});\n\n\"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&type=restaurant&keyword=cruise&key=YOUR_API_KEY\";\n\n\n$('.food-title').text()\n$('.food-price')\n$('.food-rating')\n$('.food-address').text()\n$('.food-phone-number').text()\n$('.food-text').text()\n$('.food-menu').\n\nfunction starRating {\n\tfor (var i = 0; i < stars.length; i++) {\n\t\tstars[i]\n\t}\n}",
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/javascript/logic.js",
+					"file_size": 234,
+					"file_write_time": 131505136760000000,
+					"settings":
+					{
+						"buffer_size": 472,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+					"settings":
+					{
+						"buffer_size": 4055,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/index.html",
+					"file_size": 2284,
+					"file_write_time": 131505208370000000,
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4936,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2616,
+										2616
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 548.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2994,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2492,
+										2492
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1785.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/moodfood/assets/javascript/logic.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 472,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										467,
+										467
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4055,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 494.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/classwork/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 68 1280 709 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 139,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/clayfudurich/Desktop/Bootcamp/trainScheduler/index.html",
+					"settings":
+					{
+						"buffer_size": 3208,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/clayfudurich/Desktop/Bootcamp/trainScheduler/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3208,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2817,
+										2817
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 930.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 68 1280 709 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 144,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"expanding_panel_content"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/index.html",
+					"settings":
+					{
+						"buffer_size": 5007,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/includes/expandable_panels.js",
+					"settings":
+					{
+						"buffer_size": 1002,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/includes/expandable_panels.css",
+					"settings":
+					{
+						"buffer_size": 3099,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5007,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										655,
+										655
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 169.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/includes/expandable_panels.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1002,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										989,
+										989
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 23.0,
+								"translation.y": 60.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/clayfudurich/Documents/ExpandablePanels_JQuery/Exercise Files/includes/expandable_panels.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3099,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2203,
+										2203
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 1281 61 1280 709 1280 -280 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 143,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

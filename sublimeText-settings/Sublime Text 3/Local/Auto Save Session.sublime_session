@@ -1,0 +1,776 @@
+{
+	"folder_history":
+	[
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/10-Databases/J4_MongoDB/Finished",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/Databases",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/09-Express/I7_StructuringOurApp/MyApp",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/09-Express/I5_QuerystringsAndPost",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/09-Express/I4_TemplatesAndTemplateEngines",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/09-Express/I1_InstallingExpressWebServer",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/09-Express",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/07-HTTP_BeingAWebServer",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars_ORMs_Callbacks/11-QuotesApp/Solved",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars_ORMs_Callbacks/14-TheAsynchProblem",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars_ORMs_Callbacks/13-PartyDatabase",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/ORM_Example",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/PartyDatabase",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/DayPlanner",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/TaskSaver",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/QuotesApp",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/MovieApp",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/G6_OutputtingHTMLAndTemplates",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/G9_OutputtingJSON",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/G5_LetsBuildAWebServer",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars/Wishes",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/04-HandlebarsLunch",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-/Archive (2)",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/G10_Routing",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/G7_StreamsAndPerformance",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/F11_Pipes",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/F9_Streams",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/F8_Files",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/F7_Callbacks",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/F6_Buffers",
+		"/Users/clayfudurich/Desktop/Bootcamp/friend-finder",
+		"/Users/clayfudurich/Desktop/Bootcamp/Bamazon",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/HandleBars",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/WizardSchools",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Restaurant",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator/Unsolved 6",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/10-GreatBay",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/StarWarsApp/14-FinalStarwarsApp",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/06-APis_AJAX",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/06-APis_AJAX/MovieApp (1)",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/12-Javascript_SQL/weatherApp",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/StarWarsApp",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/E11_InheritingFromEventEmitterPart3",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/require_native",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/call_and_apply",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/E9_InheritingFromEventEmitterPart2 2",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit2",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/E10_ES6Classes/Finished",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/Node",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs/StarWarsApp",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTMLserver/Favorites",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTMLserver/Bootstrap-Portfolio",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP",
+		"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week13/14-TwoTables",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week13/SQL_day3",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/inherit",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/eventEmitter",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week13/10-GreatBay",
+		"/Users/clayfudurich/Downloads/10-GreatBay",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week13/playlist",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week13",
+		"/Users/clayfudurich/Documents/Sandbox/Udemy/require_native",
+		"/Users/clayfudurich/Documents/Sandbox/moduleDotExports",
+		"/Users/clayfudurich/Downloads/D11_ModulePatterns/Finished/examples",
+		"/Users/clayfudurich/Documents/Sandbox/modulePatterns",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12/weatherApp",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12",
+		"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app",
+		"/Users/clayfudurich/Desktop/Bootcamp/classwork/Udemy/C6_LetsRunSomeJavascript/Starter",
+		"/Users/clayfudurich/Desktop/Bootcamp/friendlychat-web",
+		"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio",
+		"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap",
+		"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess",
+		"/Users/clayfudurich",
+		"/Users/clayfudurich/Desktop/Bootcamp/ucsd17/hello.html",
+		"/Users/clayfudurich/Downloads/Broken_and_Working_Code"
+	],
+	"last_version": 3143,
+	"last_window_id": 232,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 687.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"word",
+						"wordOptions\t[]"
+					],
+					[
+						"liri",
+						"liriFunctions()"
+					],
+					[
+						"li",
+						"liriFunctions()"
+					],
+					[
+						"comm",
+						"comm-section\tComment - Full section comment"
+					],
+					[
+						"function",
+						"assert.fail(actual, expected, message, operator, stackStartFunction);"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"function",
+						"Snippet: Function"
+					],
+					[
+						"if",
+						"Snippet: if … else"
+					],
+					[
+						"ss html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 448.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/node_modules/send/README.md",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/views/index.ejs",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/public/js/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars_ORMs_Callbacks/11-QuotesApp/Solved/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/friend-finder/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-/Archive (2)/views/dog.handlebars",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-/Archive (2)/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/HandleBars/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/index.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/WizardSchools/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/WizardSchools/schema.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator/expressCalculator.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/instructions.md",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/E10_ES6Classes/Finished/app.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit2/call.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit2/practice.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/call_and_apply/practice.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs/StarWarsApp/08-StarWars-1/server1.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/playlist/playlistSeeds.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/10-GreatBay/greatBaySchema.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /switchAnswer.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/practice.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/server3.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/My_first_server/server2.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/questions.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/.gitignore",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/instructions.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12/sql/sql .sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/CLI.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/keys.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/.gitignore",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/BankJS/README.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/BankJS/Unsolved/bank.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/bank.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/Unsolved 6/best_things_ever.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/OMDB_Request/Unsolved/omdbInteractiveStarter.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/javascript.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/argument.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/javascript.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/bands.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/siracha.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/RPS-Multiplayer/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1138.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"word",
+						"wordOptions\t[]"
+					],
+					[
+						"liri",
+						"liriFunctions()"
+					],
+					[
+						"li",
+						"liriFunctions()"
+					],
+					[
+						"comm",
+						"comm-section\tComment - Full section comment"
+					],
+					[
+						"function",
+						"assert.fail(actual, expected, message, operator, stackStartFunction);"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"month",
+						"monthsWorked"
+					],
+					[
+						"backg",
+						"background-image"
+					],
+					[
+						"bigg",
+						"biggestWeb"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"function",
+						"Snippet: Function"
+					],
+					[
+						"if",
+						"Snippet: if … else"
+					],
+					[
+						"ss html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 448.0
+			},
+			"console":
+			{
+				"height": 51.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/node_modules/send/README.md",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/views/index.ejs",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/11-MeanStack/K3_AngularJSManagingClient/Finished/public/js/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-Handlebars_ORMs_Callbacks/11-QuotesApp/Solved/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/friend-finder/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-/Archive (2)/views/dog.handlebars",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/15-/Archive (2)/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/HandleBars/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/index.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/WizardSchools/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/WizardSchools/schema.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator/expressCalculator.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/NodeCalculator/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/instructions.md",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/E10_ES6Classes/Finished/app.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit2/call.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/inherit2/practice.js",
+				"/Users/clayfudurich/Documents/Sandbox/Udemy/Node/call_and_apply/practice.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs/StarWarsApp/08-StarWars-1/server1.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/playlist/playlistSeeds.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/10-GreatBay/greatBaySchema.sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /switchAnswer.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/practice.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/server3.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/My_first_server/server2.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/server.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/13-MySQL_Servers/Servers /HTTP/instructions.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/questions.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/.gitignore",
+				"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/instructions.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12/sql/sql .sql",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/CLI.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/keys.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/liri-node-app/.gitignore",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week12/app.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/BankJS/README.md",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/BankJS/Unsolved/bank.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/bank.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/Unsolved 6/best_things_ever.txt",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/OMDB_Request/Unsolved/omdbInteractiveStarter.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week11/javascript.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/argument.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/javascript.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/bands.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/siracha.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/RPS-Multiplayer/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp/Unsolved/click-json.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-easier.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week6/MovieApp (1)/Unsolved/working-movie-app-harder.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week7/dynamic-elements.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week8/logic.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/giphy/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/1-student-do-todolist.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/starWarsGame/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/fizzBuzz.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/ThisExample/this-unsolved.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week5/this.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/week-4-game/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/js/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/classhangman/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/javascript/game.js",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Hangman-Game/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week4/04-03-Activities/Cobweb/cobweb-starter.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/functions.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/assets/css/styles.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Bootstrap-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Responsive-Portfolio/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/drinks.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/coolPeople.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/classwork/week 3/javascriptPractice.html",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/js/script.js",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/css/styles.css",
+				"/Users/clayfudurich/Desktop/Lynda/Bootstrap_ess/bootstrap/index.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/chinapalace.github.io/assets/css/style.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/bio.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/reset.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.css",
+				"/Users/clayfudurich/Desktop/Bootcamp/Floats/floats.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/Unsolved/RelativePaths_2/html-bio.html",
+				"/Users/clayfudurich/hello.html",
+				"/Users/clayfudurich/Desktop/Bootcamp/fanpage.html",
+				"/Users/clayfudurich/Desktop/index.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/My_first_website.html",
+				"/Users/clayfudurich/Desktop/javascript.js",
+				"/Users/clayfudurich/Desktop/javascriptindex.html",
+				"/Users/clayfudurich/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDogfixed.html"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 142 68 1138 709 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 232,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/clayfudurich/Desktop/Bootcamp/friend-finder/friend-finder.sublime-workspace",
+			"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/bamazon.sublime-workspace",
+			"/Users/clayfudurich/Documents/Sandbox/Udemy/01_require.sublime-workspace",
+			"/Users/clayfudurich/Documents/Sandbox/Udemy/require_native/learnNode.sublime-workspace",
+			"/Users/clayfudurich/Documents/Sandbox/Udemy/require_native/untitled.sublime-workspace",
+			"/Users/clayfudurich/Desktop/Bootcamp/CLI-hangman/hangmanCLI.sublime-workspace",
+			"/Users/clayfudurich/Desktop/Bootcamp/RPS-Multiplayer/assets/js/rockPaperScissors.sublime-workspace",
+			"/Users/clayfudurich/Desktop/Bootcamp/friendlychat-web/web-start/FriendlyChat.sublime-workspace"
+		]
+	}
+}

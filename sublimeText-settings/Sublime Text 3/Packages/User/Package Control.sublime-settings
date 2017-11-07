@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ASCII Comment Snippets",
+		"AutoFileName",
+		"ayu",
+		"Bootstrap 3 Snippets",
+		"Emmet",
+		"Handlebars",
+		"Libraries from CDN",
+		"Nodejs",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"TernJS"
+	]
+}
